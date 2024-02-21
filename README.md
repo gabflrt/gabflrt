@@ -5,7 +5,7 @@ Here you can find some of my completed projects, in particular those for the UTB
 
 ## About me
 
-I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").  
+I'm a 21 years old french student, studying at [UTBM](https://utbm.fr/ " ").  
 I'm currently learning : 
 - Advanced web programming
 - Database management
