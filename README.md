@@ -11,7 +11,10 @@ I'm currently learning :
 - Database management
 - Object-oriented programming
 - Artificial Intelligence
-
+- Basics of Networks and Cybersecurity
+- Android development
+- Optimization and Operations Research
+- Operating system architecture 
 
 ## UTBM's Projects :
 - **[WE4A](https://github.com/gabflrt/WE4A " ")**, Creation of an online reservation website for a restaurant using HTML, PHP, CSS and JavaScript. Possibility of ordering dishes, drinks, etc. Back-office management for managers, with product additions, categories and order management.
